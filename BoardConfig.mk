@@ -27,7 +27,7 @@
 -include $(COMMON_PATH)/BoardConfigCommon.mk
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := mondrian
+TARGET_OTA_ASSERT_DEVICE := garnet
 
 # TWRP specific build flags
 TW_FRAMERATE := 120
